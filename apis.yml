@@ -26,9 +26,9 @@ name: Sandforce
 description: SandForce was a fabless semiconductor company (Canaan Partners-backed) that designed flash
   memory / SSD controller processors. It was acquired by LSI Corporation in 2012 and its flash-controller
   business was subsequently folded into Seagate; the sandforce.com domain now redirects to seagate.com.
-  As a defunct, absorbed brand it operates no independent website, developer portal, API, SDK, or
-  documentation, so there is no live API surface to enrich. Surfaced in the API Evangelist network as a
-  canaan-partners portfolio lead; retained as a historical/company record.
+  As a defunct, absorbed brand it operates no independent website, developer portal, API, SDK, or documentation,
+  so there is no live API surface to enrich. Surfaced in the API Evangelist network as a canaan-partners
+  portfolio lead; retained as a historical/company record.
 url: https://raw.githubusercontent.com/api-evangelist/sandforce/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -38,7 +38,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-09-15'
 tags:
 - Company
 - Semiconductors
@@ -64,3 +64,4 @@ maintainers:
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-status: defunct
